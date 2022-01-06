@@ -18,12 +18,26 @@ img {
   border-radius: 150px 10px;
   display: block;
   align-content: center;
+  max-width: 100%;
+  object-fit: scale-down;
 }
-
-.hero {
+.btn {
+  padding: 10px 20px;
+}
+.hero,
+.media {
   text-align: center;
   padding: 100px;
   background-color: #f2f2f2;
+  vertical-align: middle;
+}
+
+.andalix,
+.coding {
+  text-align: center;
+  padding: 100px;
+  background-color: white;
+  vertical-align: middle;
 }
 
 /*@media (max-width: 960px) {
