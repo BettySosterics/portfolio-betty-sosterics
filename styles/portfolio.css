@@ -1,16 +1,21 @@
 /*font-family: 'Quicksand', sans-serif;
 font-family: 'Roboto', sans-serif;*/
-body {
-  background: black;
-}
-h1 {
+
+h1,
+h2 {
   font-family: "Roboto", sans-serif;
   font-weight: bold;
-  color: whitesmoke;
+  color: black;
 }
 
 p {
   font-family: "Roboto", sans-serif;
-  font-weight: 300;
-  color: whitesmoke;
+  font-weight: 50;
+  color: black;
+}
+
+.hero {
+  text-align: center;
+  padding: 100px;
+  background-color: #f2f2f2;
 }
