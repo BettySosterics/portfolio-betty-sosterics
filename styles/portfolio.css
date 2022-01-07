@@ -33,11 +33,17 @@ img {
 }
 
 .andalix,
-.coding {
+.coding,
+.about {
   text-align: center;
   padding: 100px;
   background-color: white;
   vertical-align: middle;
+}
+.about-section-content,
+.contact-section {
+  line-height: 30px;
+  text-align: justify;
 }
 
 .nav-link {
