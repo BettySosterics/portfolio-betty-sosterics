@@ -40,6 +40,17 @@ img {
   vertical-align: middle;
 }
 
+.nav-link {
+  color: rgb(0, 0, 0) !important;
+}
+
+.nav-link:hover {
+  color: rgb(107, 107, 109) !important;
+}
+
+.navbar-brand {
+  color: rgb(107, 107, 109) !important;
+}
 /*@media (max-width: 960px) {
 
 }*/
