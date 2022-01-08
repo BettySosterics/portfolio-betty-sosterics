@@ -29,7 +29,7 @@ img {
 .media,
 .wolfolks {
   text-align: center;
-  padding: 100px;
+  padding: 100px 50px;
   background-color: #f2f2f2;
   vertical-align: middle;
 }
@@ -46,7 +46,7 @@ img {
 .about,
 .contact-media {
   text-align: center;
-  padding: 100px;
+  padding: 100px 50px;
   background-color: white;
   vertical-align: middle;
 }
