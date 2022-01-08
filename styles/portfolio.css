@@ -21,6 +21,7 @@ img {
   max-width: 100%;
   object-fit: scale-down;
 }
+
 .btn {
   padding: 10px 20px;
 }
@@ -50,6 +51,9 @@ img {
 .contact-section {
   line-height: 30px;
   text-align: justify;
+}
+.coding-contact-section {
+  text-align: center;
 }
 
 .nav-link {
