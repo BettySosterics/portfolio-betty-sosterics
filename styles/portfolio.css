@@ -15,7 +15,7 @@ p {
 }
 
 img {
-  border-radius: 150px 10px;
+  border-radius: 50px 10px;
   display: block;
   align-content: center;
   max-width: 100%;
@@ -26,7 +26,8 @@ img {
   padding: 10px 20px;
 }
 .hero,
-.media {
+.media,
+.wolfolks {
   text-align: center;
   padding: 100px;
   background-color: #f2f2f2;
