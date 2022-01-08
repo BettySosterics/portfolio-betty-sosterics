@@ -34,7 +34,8 @@ img {
   vertical-align: middle;
 }
 
-.footer {
+.footer,
+.media-services {
   text-align: center;
   padding: 20px;
   background-color: #f2f2f2;
@@ -42,7 +43,8 @@ img {
 }
 .andalix,
 .coding,
-.about {
+.about,
+.contact-media {
   text-align: center;
   padding: 100px;
   background-color: white;
@@ -68,6 +70,3 @@ img {
 .navbar-brand {
   color: rgb(107, 107, 109) !important;
 }
-/*@media (max-width: 960px) {
-
-}*/
