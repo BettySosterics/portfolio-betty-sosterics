@@ -79,9 +79,14 @@ img {
 
 @media (max-width: 900px) {
   p,
-  a {
+  span,
+  .about,
+  .about-section-content,
+  .btn,
+  .contact-links {
     font-size: 12px;
   }
+
   h2 {
     font-size: 16px;
   }
