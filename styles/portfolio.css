@@ -70,3 +70,22 @@ img {
 .navbar-brand {
   color: rgb(107, 107, 109) !important;
 }
+
+@media (max-width: 900px) {
+  p,
+  a {
+    font-size: 12px;
+  }
+  h2 {
+    font-size: 16px;
+  }
+  h1 {
+    font-size: 20px;
+  }
+  .footer {
+    font-size: 12px;
+  }
+  .btn {
+    padding: 6px 8px;
+  }
+}
