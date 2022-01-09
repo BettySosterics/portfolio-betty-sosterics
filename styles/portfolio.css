@@ -71,6 +71,12 @@ img {
   color: rgb(107, 107, 109) !important;
 }
 
+.fab {
+  font-size: 40px;
+  padding: 20px;
+  color: black;
+}
+
 @media (max-width: 900px) {
   p,
   a {
